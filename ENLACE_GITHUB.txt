@@ -1,0 +1,16 @@
+GA7-220501096-AA5-EV01
+Laura Tatiana Ciro Botero
+
+Repositorio:
+https://github.com/tatianabotero314-del/sena-ga7-aa5-ev01-servicios
+
+Pruebas verificadas:
+https://github.com/tatianabotero314-del/sena-ga7-aa5-ev01-servicios/actions/runs/42150101423
+
+Versión del proyecto:
+bcaf666ef306b7e24456ed820d982f78f6e5a0ed
+
+16 pruebas aprobadas: 15 de integración y 1 de navegador. Sin fallos ni pruebas omitidas.
+
+Inicio local: entrar a proyecto, ejecutar mvn spring-boot:run y abrir http://127.0.0.1:8080.
+La URL de GitHub contiene el código; no es una API pública desplegada.
